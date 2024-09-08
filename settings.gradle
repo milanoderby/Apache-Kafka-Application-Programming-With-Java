@@ -1,1 +1,7 @@
 rootProject.name = 'apache-kafka-application-programming-with-java'
+
+include 'chapter3.4.1-simple-kafka-producer'
+include 'chapter3.4.1-kafka-producer-key-value'
+include 'chapter3.4.1-kafka-producer-exact-partition'
+include 'chapter3.4.1-kafka-producer-custom-partitioner'
+
