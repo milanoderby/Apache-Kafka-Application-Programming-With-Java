@@ -11,4 +11,5 @@ include 'chapter3.4.2-kafka-consumer-sync-commit'
 include 'chapter3.4.2-kafka-consumer-sync-offset-commit'
 include 'chapter3.4.2-kafka-consumer-async-commit'
 include 'chapter3.4.2-kafka-consumer-rebalance-listener'
+include 'chapter3.4.2-kafka-consumer-exact-partition'
 
