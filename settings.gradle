@@ -9,4 +9,5 @@ include 'chapter3.4.1-kafka-producer-async-callback'
 include 'chapter3.4.2-simple-kafka-consumer'
 include 'chapter3.4.2-kafka-consumer-sync-commit'
 include 'chapter3.4.2-kafka-consumer-sync-offset-commit'
+include 'chapter3.4.2-kafka-consumer-async-commit'
 
