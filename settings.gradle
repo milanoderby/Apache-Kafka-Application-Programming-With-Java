@@ -13,4 +13,5 @@ include 'chapter3.4.2-kafka-consumer-async-commit'
 include 'chapter3.4.2-kafka-consumer-rebalance-listener'
 include 'chapter3.4.2-kafka-consumer-exact-partition'
 include 'chapter3.4.2-kafka-consumer-shutdown-hook'
+include 'chapter3.4.3-kafka-admin-client'
 
