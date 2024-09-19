@@ -17,4 +17,5 @@ include 'chapter3.4.3-kafka-admin-client'
 include 'chapter4.2.2-idempotence-producer'
 include 'chapter4.2.3-transaction-producer'
 include 'chapter4.2.3-transaction-consumer'
+include 'chapter4.3.1-kafka-consumer-with-multi-worker-thread'
 
