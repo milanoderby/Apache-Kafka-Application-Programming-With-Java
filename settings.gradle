@@ -19,4 +19,4 @@ include 'chapter4.2.3-transaction-producer'
 include 'chapter4.2.3-transaction-consumer'
 include 'chapter4.3.1-kafka-consumer-with-multi-worker-thread'
 include 'chapter4.3.1-kafka-multi-consumer-thread'
-
+include 'chapter4.4.1-spring-kafka-basic-kafka-template'

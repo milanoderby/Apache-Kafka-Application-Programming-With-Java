@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: chapter4.4.1-spring-kafka-basic-kafka-template
+
+  kafka:
+    producer:
+      bootstrap-servers: madcoder-kafka-server:9092
+      acks: all
