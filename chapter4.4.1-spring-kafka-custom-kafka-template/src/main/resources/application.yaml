@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: chapter4.4.1-spring-kafka-custom-kafka-template
